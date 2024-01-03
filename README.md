@@ -3,7 +3,8 @@
 - This repository contains the Nextflow script used to analyze wastewaster samples to idetify Antibiotic resistant genes.
 
 #### Requirements 
-- Nextflow 
+- Nextflow
+  - Nextflow installation and requirements retrieved from 'https://www.nextflow.io/docs/latest/getstarted.html'     
 - Docker or Conda
 
 #### Steps 
