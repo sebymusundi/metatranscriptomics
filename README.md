@@ -4,10 +4,11 @@
 
 #### Requirements 
 - Nextflow
-  - Nextflow installation and requirements retrieved from https://www.nextflow.io/docs/latest/getstarted.html
-  - Before installing Nextflow its essential to have installed Java version 17+ since it is required in running Nextflow  
+  - Nextflow installation - https://www.nextflow.io/docs/latest/getstarted.html
+  -  Requirement (Java version 17+)   
 - Docker or Conda
-  - Docker or conda used to run each of the individual processes present in the Nextflow pipeline. Docker installation instructions retrieved from while Anaconda version
+  - Docker or conda used to run each process in Nextflow.
+  - Docker installation (https://docs.docker.com/engine/install/ubuntu/)
  - Data files
    - We retrieved the human genome from NCBI. Wastewater samples contain human reads that need to be remove host contaminating reads
    - We retrieved ribosomal RNA reads from the SILVA database      
